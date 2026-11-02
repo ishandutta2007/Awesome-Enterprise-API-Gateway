@@ -10,7 +10,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Mentioned in Awesome" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-API-Gateway/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-API-Gateway?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-API-Gateway/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-API-Gateway?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-API-Gateway/forks"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-API-Gateway?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-API-Gateway/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -75,9 +75,9 @@ The table below lists leading commercial enterprise API gateways and management 
 
 ## 💻 Open-Source GitHub Projects
 
-The table below lists open-source enterprise API gateways and traffic proxies, ranked in descending order by GitHub Stars:
+The table below lists open-source enterprise API gateways and traffic proxies, ranked in descending order by GitHub_Stars:
 
-| Repository / Project | GitHub Stars ⭐ | Tech Stack 🛠️ | License 📄 | Core Capabilities & Architecture 💡 |
+| Repository / Project | GitHub_Stars ⭐ | Tech Stack 🛠️ | License 📄 | Core Capabilities & Architecture 💡 |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Traefik](https://github.com/traefik/traefik)** 🚦 | [![Traefik Stars](https://img.shields.io/github/stars/traefik/traefik?style=social&color=white)](https://github.com/traefik/traefik/stargazers) | Go | MIT | Modern HTTP reverse proxy and ingress controller designed specifically for microservices, Docker, and Kubernetes with automatic discovery and Let's Encrypt SSL automation. |
 | **[Kong Gateway](https://github.com/Kong/kong)** 🦍 | [![Kong Stars](https://img.shields.io/github/stars/Kong/kong?style=social&color=white)](https://github.com/Kong/kong/stargazers) | OpenResty, Lua | Apache-2.0 | The most adopted cloud-native API gateway. Extensive plugin hub for auth (OAuth2/JWT/Key), rate limiting, traffic shaping, observability, and Kubernetes Ingress Controller. |
@@ -140,7 +140,7 @@ Thank you for your generous support and for being an integral part of the open-s
 ## ⚖️ Disclaimer
 
 - This is an independent, community-curated repository and does not represent an endorsement of any commercial platform or vendor.
-- Pricing metrics, product features, and star counts reflect public availability and vendor documentation as of November 2026. Always confirm terms with respective vendors prior to production procurement.
+- Pricing metrics, product features, and Stars_Counts reflect public availability and vendor documentation as of November 2026. Always confirm terms with respective vendors prior to production procurement.
 
 ---
 
